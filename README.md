@@ -12,4 +12,4 @@ Likes system and social share buttons for wordpress and WooCommerce, completely 
   
   <br><br>
   
-
+  Check video tutorial of how this plugin works here: <a target="_blank" href="https://share.vidyard.com/watch/V4dG1nRPv4vgcXL3EjNhd6?">https://share.vidyard.com/watch/V4dG1nRPv4vgcXL3EjNhd6?</a>
